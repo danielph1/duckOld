@@ -1,0 +1,38 @@
+[
+   {
+      "foto": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "username": "daniel",
+      "sobre": "about",
+      "email": "danielphelipe12@hotmail.com",
+      "password": "pass",
+      "numero": "+5521999999999",
+      "local": "RJ",
+      "amigos": [
+         "+5521973067555",
+         "+5521988830688"
+      ],
+      "chat": []
+   },
+   {
+      "foto": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "username": "danielNovo",
+      "sobre": "about",
+      "email": "danielphelipe12@hotmail.com",
+      "password": "pass",
+      "numero": "+5521973067555",
+      "local": "RJ",
+      "amigos": [],
+      "chat": []
+   },
+   {
+      "foto": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "username": "danielNovo",
+      "sobre": "about",
+      "email": "danielphelipe12@hotmail.com",
+      "password": "pass",
+      "numero": "+5521988830688",
+      "local": "RJ",
+      "amigos": [],
+      "chat": []
+   }
+]
